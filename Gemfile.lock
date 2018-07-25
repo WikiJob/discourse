@@ -213,6 +213,7 @@ GEM
     multi_xml (0.6.0)
     multipart-post (2.0.0)
     mustache (1.0.5)
+    mysql2 (0.5.2)
     nap (1.1.0)
     no_proxy_fix (0.1.2)
     nokogiri (1.8.3)
@@ -496,6 +497,7 @@ DEPENDENCIES
   mock_redis
   multi_json
   mustache
+  mysql2
   nokogiri
   oj
   omniauth
